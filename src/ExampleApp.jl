@@ -1,5 +1,7 @@
 module ExampleApp
 
-# Write your package code here.
+function run(args)
+    @info "Running ExampleApp" args
+end
 
 end
