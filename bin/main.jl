@@ -1,2 +1,3 @@
 using ExampleApp
-ExampleApp.run(ARGS)
+ExampleApp._show_args()
+ExampleApp.run()
